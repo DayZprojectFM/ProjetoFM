@@ -1,5 +1,6 @@
 {
-    "177.200.64.225" :["[BR]Hunter","core","constants","creaturesfs3","creaturesfs4","dontdie","fish","minimapa","mining","hntscripts"],
+    "177.200.64.225" :["[BR]Hunter","core","constants","creaturesfs3","creaturesfs4","dontdie","fish","minimapa","mining","hntscripts","fuel"],
+    "statusmod" :["false","false","true","true","false","false","true","false","true","true"],
     "core" :
     [
         "https://discord.com/api/webhooks/1312877098519760946/t0NU1EKIMvbDTTjCgU85owepTCO1M_pdDmk7JIP_blEtSlws6AMycym94HI9nUiueWL_",
@@ -59,5 +60,10 @@
         "https://discord.com/api/webhooks/1313283503223214190/eJPaTFRw2B9lmq5U3YQ6GbcK8SgxG584bFqw0twPYSXxRX17j81QogGMRZsNPv1aZqKF",
         "https://discord.com/api/webhooks/1313283441948885043/N-TSG5Qqk_8mgtspDO5h4h1WTv6xWfTNm7ndkYv1qzRvHTMJFh7mW2zleI0MwuV3BPnw",
         "https://discord.com/api/webhooks/1313283471489368114/c4uUGZiSV8GoUq2NXxcdFoMvf7LjBtiqI0laKIOUCI_cVnHLJqzz33wi1xCFZ9VlUY9E"
-    ]    
+    ],   
+   "repack" :
+    [
+        "https://discord.com/api/webhooks/1323346064891445290/ub2Ym1Tntz0jGfvMhBUsgjYrUJxRvX80sEwUiKhV_FCbRWOF_UVKdW-34OZFCVF2bQJA"
+    ]   
+        
 }
