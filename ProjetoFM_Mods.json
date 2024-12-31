@@ -1,5 +1,5 @@
 {
-    "177.200.64.225" :["[BR]Hunter","core","constants","creaturesfs3","creaturesfs4","dontdie","fish","minimapa","mining","hntscripts","fuel"],
+    "177.200.64.225" :["[BR]Hunter","core","constants","creaturesfs3","creaturesfs4","dontdie","fish","minimapa","mining","hntscripts","fuel","respawnselect"],
     "statusmod" :["false","false","true","true","false","false","true","false","true","true"],
     "core" :
     [
