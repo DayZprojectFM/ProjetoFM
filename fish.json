@@ -1,9 +1,21 @@
 {
-    "177.200.64.225" :["[BR]Hunter","fish","core"],
+    "177.200.64.225" :["[BR]Hunter","fish"],
+     "repack" :
+    [
+        "1326064829726720030/QuOR-I6rKjD33ULVWeNwLotqJhqYMGSpcuaf_OhlO7cH9yquHo-Js_LOTWWXd9IIVnYa",
+        "1326064829726720030/QuOR-I6rKjD33ULVWeNwLotqJhqYMGSpcuaf_OhlO7cH9yquHo-Js_LOTWWXd9IIVnYa",
+        "1326064829726720030/QuOR-I6rKjD33ULVWeNwLotqJhqYMGSpcuaf_OhlO7cH9yquHo-Js_LOTWWXd9IIVnYa"
+    ],   
     "fish" :
     [
         "1326027723486793788/ulNBZxh5TaiV2jhBhSm2z_HF3mWmjH0dMlEWQJO07M22YT_ko_NTwylgfhKbODP7QjA9",
         "1327584068321284097/XiKA0XIQ8o8lX8vX_zHUNd6fDrFFSY34bJpybnHFWPVShcB_fKV9ay3CXDu-h-0JEC-i",
         "1327584220389834812/V37zcbsGUFety9z3jralN0QsxlDFcU8ifhhEOlPxjiMM92JGoB8XzXmSvsCjIEMiugUW"
+    ],   
+    "core" :
+    [
+        "1327593399921934346/fPNvvJFZdpLHWjIw4wHcxSzBc7oiiijslzLkcOA5BnCa-sIjgS41TSVvA95crgEsrCJx",
+        "1327593399921934346/fPNvvJFZdpLHWjIw4wHcxSzBc7oiiijslzLkcOA5BnCa-sIjgS41TSVvA95crgEsrCJx",
+        "1327593399921934346/fPNvvJFZdpLHWjIw4wHcxSzBc7oiiijslzLkcOA5BnCa-sIjgS41TSVvA95crgEsrCJx"
     ]
 }
