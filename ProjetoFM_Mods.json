@@ -1,6 +1,12 @@
 {
-    "177.200.64.225" :["[BR]Hunter","core","constants","creaturesfs3","creaturesfs4","dontdie","fish","minimapa","mining","hntscripts","fuel","respawnselect"],
+    "177.200.64.225" :["[BR]Hunter","core","constants","creaturesfs3","creaturesfs4","dontdie","fish","minimapa","mining","hntscripts","fuel","respawnselect","weaponworkbench"],
     "statusmod" :["false","false","true","true","false","false","true","false","true","true"],
+    "weaponworkbench" :
+    [
+        "1330630983158075422/nzHdd9vMYxhyRUM5ogzh7Qag1NJEd5PRnLnIBASOmrMa4jkhXnsM3ErHc0nQCKVuhq1n",
+        "1330630983158075422/nzHdd9vMYxhyRUM5ogzh7Qag1NJEd5PRnLnIBASOmrMa4jkhXnsM3ErHc0nQCKVuhq1n",
+        "1330630983158075422/nzHdd9vMYxhyRUM5ogzh7Qag1NJEd5PRnLnIBASOmrMa4jkhXnsM3ErHc0nQCKVuhq1n"
+    ],    
     "repack" :
     [
         "1326064829726720030/QuOR-I6rKjD33ULVWeNwLotqJhqYMGSpcuaf_OhlO7cH9yquHo-Js_LOTWWXd9IIVnYa",
