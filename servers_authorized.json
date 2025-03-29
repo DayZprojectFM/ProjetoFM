@@ -1,13 +1,7 @@
 {
-  "[BR]HunterVanilla":"",
   "servers_authorized": [
     "[BR]DunterVanilla",
     "[BR]HunterVanilla",
     "MeuServidorDayZ"
-  ],
-  
-  "other_data": {
-    "example": "Esta parte pode conter outros dados",
-    "mas_nao_sera_usada": "pelo codigo otimizado"
-  }
+  ]
 }
