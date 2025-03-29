@@ -1,7 +1,12 @@
 {
-    "webhook": "1355562141838479399/NhdiZG9cVbNSJmbLU-EVCnzxlEuqBwGdXVMpy9-lkhC3aAk3NjS4cNqqz3uVsa6Cye44",
-    "webhook_unauthorized": "1355562141838479399/NhdiZG9cVbNSJmbLU-EVCnzxlEuqBwGdXVMpy9-lkhC3aAk3NjS4cNqqz3uVsa6Cye44",
-    "Servidor Autorizado 1": "[BR]HunterVanilla",
-    "Servidor Autorizado 2": "",
-    "Outro Servidor": ""
+  "servers_authorized": [
+    "[BR]HunterVanilla",
+    "NomeDoServidor2",
+    "MeuServidorDayZ"
+  ],
+  
+  "other_data": {
+    "example": "Esta parte pode conter outros dados",
+    "mas_nao_sera_usada": "pelo codigo otimizado"
+  }
 }
