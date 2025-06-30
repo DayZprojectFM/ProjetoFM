@@ -1,6 +1,14 @@
 [
     {
-        "ip": "177.200.64.225",
+        "ip": "177.200.64.221",
         "server": "LOCAL"
+    },
+    {
+        "ip": "177.200.64.225",
+        "server": "[RU]HunterVanilla"
+    },
+    {
+        "ip": "99.88.77.66",
+        "server": "Outro Servidor Autorizado"
     }
 ]
